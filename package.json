@@ -1,0 +1,11 @@
+{
+  "name": "dibbz_app_server",
+  "version": "1.0.0",
+  "description": "Dibbz application server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christine Chau",
+  "license": "MIT"
+}
